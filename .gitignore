@@ -140,4 +140,10 @@ dmypy.json
 cython_debug/
 
 # ignore Videos
-videos/*.mp4
+*.mp4
+
+.DS_Store
+
+country-4x3/
+country/
+iso-country-flags-svg-collection-master/
